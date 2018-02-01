@@ -1,0 +1,3 @@
+Run jar with below command
+java -jar spreadsheet-jar-with-dependencies.jar <path to inputfile.csv> <path to outputfile.csv>
+
